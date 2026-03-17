@@ -19,7 +19,7 @@ Currently Fwishium is still in it's development phase, but the primary release d
 <br>
 
 ### How much does Fwishium actually help?
-With my current test enviroment, using Hyprland on Arch Linux, Personally have noticed a significant decrease in RAM and CPU usage already from just suppressing CSS & Background updates, my RSS usage was cut down by 300mb RSS usage, out of focus 600mb. This is fully dependant on the system you are running and what sort of adaptation of discord you have, performance changes will vary alot.
+With my current test enviroment, using Hyprland on Arch Linux, Personally have noticed a significant decrease in RAM and CPU usage already from just suppressing CSS & Background updates, my RSS usage was cut down by 300mb, out of focus 600mb. This is fully dependant on the system you are running and what sort of adaptation of discord you have, performance changes will vary alot.
 <br>
 <br>
 
