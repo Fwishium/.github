@@ -14,9 +14,14 @@ Fwishium is a lightweight discord plugin run via betterdiscord, designed to make
 <br>
 
 ### When is Fwishium releasing?
-Currently Fwishium is still in it's development phase, but the primary release date with full features will hopefully be within anywhere from a month or two from now (est. 15 May). You can follow along the [roadmap](https://github.com/fwishr/fwishium?tab=readme-ov-file#roadmap) to see how far out, or close Fwishium is to actually releasing.
+Currently Fwishium is still in it's development phase, but the primary release date with full features will hopefully be within anywhere from a month or two from now (est. 15 May). You can follow along the [roadmap](https://github.com/fwishr/fwishium?tab=readme-ov-file#roadmap) to see how far out, or how close Fwishium is to actually releasing.
 <br>
 <br>
 
 ### How much does Fwishium actually help?
-With my current test enviroments using Hyprland on Arch Linux I've noticed a significant decrease in RAM and CPU usage already from just suppressing CSS & Background updates, although in it's alpha pre-release phase, RSS usage can be cutdown by about 300mb RSS usage, and out of focus nearly 600mb reduction in RSS usage. This is fully dependant on the system you are running and what sort of adaptation of discord you have, performance changes will vary alot.
+With my current test enviroment, using Hyprland on Arch Linux, Personally have noticed a significant decrease in RAM and CPU usage already from just suppressing CSS & Background updates, my RSS usage was cut down by 300mb RSS usage, out of focus 600mb. This is fully dependant on the system you are running and what sort of adaptation of discord you have, performance changes will vary alot.
+<br>
+<br>
+
+## What can _you_ do to help?
+Since this project is still small and is lacking alot of testing it'd be greatly appreciated for those checking this out and who are actually interested, share some of their benchmarking and reviews on Fwishium, additionally any and all help when it comes to different techniques to further optimize would be greatly appreciated, you may contact me via [Discord](http://discord.com/users/607822260362805259), where I'll be the most active and quickest to respond.
